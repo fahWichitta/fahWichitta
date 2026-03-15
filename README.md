@@ -7,7 +7,7 @@ Quality Assurance Engineer
 Quality Assurance Engineer with 3+ years of experience in a healthcare environment. Skilled in requirement analysis, test planning, test case design, bug tracking, and end-to-end testing for Web, Web Applications, and Mobile Applications. Experienced in REST API testing using Postman, data validation using SQL/NoSQL, and dashboard testing with Tableau. Strong collaboration with Data Engineers, Full Stack Developers, and Analysts in Agile/Scrum environments to ensure high-quality and reliable software delivery.
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [wichitta.kunapoom@gmail.com](mailto:wichitta.kunapoom@gmail.com)
+* ✉️  You can contact me at [wichitta.kunapoom@gmail.com](mailto:wichitta.ku@gmail.com)
 * 🧠  I'm currently learning I’m currently learning automation testing using Selenium WebDriver to enhance my QA skills.
 
 <p align="left">
